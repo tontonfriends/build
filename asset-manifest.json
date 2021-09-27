@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.e4dc13db.chunk.css",
+    "main.js": "/build/static/js/main.678fe3bb.chunk.js",
+    "main.js.map": "/build/static/js/main.678fe3bb.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.2a68eb9d.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.2a68eb9d.js.map",
+    "static/js/2.ed12b87e.chunk.js": "/build/static/js/2.ed12b87e.chunk.js",
+    "static/js/2.ed12b87e.chunk.js.map": "/build/static/js/2.ed12b87e.chunk.js.map",
+    "static/js/3.1426893d.chunk.js": "/build/static/js/3.1426893d.chunk.js",
+    "static/js/3.1426893d.chunk.js.map": "/build/static/js/3.1426893d.chunk.js.map",
+    "index.html": "/build/index.html",
+    "static/css/main.e4dc13db.chunk.css.map": "/build/static/css/main.e4dc13db.chunk.css.map",
+    "static/js/2.ed12b87e.chunk.js.LICENSE.txt": "/build/static/js/2.ed12b87e.chunk.js.LICENSE.txt",
+    "static/media/3978.386bb1dc.png": "/build/static/media/3978.386bb1dc.png",
+    "static/media/reset.css": "/build/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a68eb9d.js",
+    "static/js/2.ed12b87e.chunk.js",
+    "static/css/main.e4dc13db.chunk.css",
+    "static/js/main.678fe3bb.chunk.js"
+  ]
+}
